@@ -14,3 +14,14 @@ div.container{
 h2, p{
     margin-bottom: 1rem;
 }
+
+ol{
+    margin-left: 15px;
+    text-indent: 20px;
+}
+
+ol ul{
+    margin-left: 18px;
+    
+    list-style-type: disc;
+}
